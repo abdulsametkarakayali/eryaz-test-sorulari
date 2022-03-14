@@ -1,0 +1,15 @@
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\bin\Debug\net6.0\eryazconsole.exe
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\bin\Debug\net6.0\eryazconsole.deps.json
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\bin\Debug\net6.0\eryazconsole.runtimeconfig.json
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\bin\Debug\net6.0\eryazconsole.dll
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\bin\Debug\net6.0\eryazconsole.pdb
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\obj\Debug\net6.0\eryazconsole.csproj.AssemblyReference.cache
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\obj\Debug\net6.0\eryazconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\obj\Debug\net6.0\eryazconsole.AssemblyInfoInputs.cache
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\obj\Debug\net6.0\eryazconsole.AssemblyInfo.cs
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\obj\Debug\net6.0\eryazconsole.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\obj\Debug\net6.0\eryazconsole.dll
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\obj\Debug\net6.0\refint\eryazconsole.dll
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\obj\Debug\net6.0\eryazconsole.pdb
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\obj\Debug\net6.0\eryazconsole.genruntimeconfig.cache
+C:\Users\laptop\Desktop\eryaz\eryazconsole\eryazconsole\obj\Debug\net6.0\ref\eryazconsole.dll
